@@ -1,0 +1,81 @@
+.div1 {
+    border: 5px solid black;
+    height: 300px;
+    width: 1200px;
+    margin: 20px auto 20px auto;
+}
+
+.div1-1 {
+    background: purple;
+    border: 5px solid purple;
+    height: 200px;
+    width: 40px;
+    margin-top: 80px;
+    margin-left: 40px; 
+}
+
+.div1-2 {
+    background: green;
+    border: 5px solid green;
+    height: 250px;
+    width: 500px;
+    margin-top: -270px;
+    margin-left: 200px;
+    float: left;
+}
+.div1-3 {
+    border: red;
+    background-color: lightblue;
+    height: 200px;
+    -moz-border-radius:100px;
+    -webkit-border-radius: 100px;
+    width: 200px;
+    margin-left: 800px ;
+    margin-top: -250px ;
+}
+
+.div2 {
+    border: 5px dotted black;
+    height: 300px;
+    width: 1200px;
+    margin: 20px auto 20px auto;
+}
+
+.div2-1 {
+    background-color: yellow;
+    border: 5px solid yellow;
+    height: 200px;
+    width: 1000px;
+    margin: 50px auto ;
+    box-shadow: 5px 10px 10px #3b3b39
+}
+
+.div3 {
+    border: 1px solid gray;
+    height: 300px;
+    width: 1200px;
+    margin: 20px auto 20px auto;
+    box-shadow: 5px 10px 10px #91918f
+}
+
+.div3-1 {
+    color: blue;
+    font-size: 50px;
+    font-family: Times New Roman;
+    height: 50px;
+    width: 100px;
+    margin: 100px auto 5px auto ;
+    
+}
+
+.div3-2 {
+    color: blue;
+    font-size: 50px;
+    font-family: Times New Roman;
+    height: 50px;
+    width: 100px;
+    margin-left: 530px ;
+    margin-top: 0;
+    
+    
+}
